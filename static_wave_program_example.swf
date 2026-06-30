@@ -1,0 +1,18 @@
+# QRP static waveform program example
+# SETCHAMBER hyperbolic: use hyperbolic chamber geometry for interference
+SETCHAMBER hyperbolic
+
+# Load the values and compute a symbolic expression
+LOAD A
+LOAD D
+ADD
+STORE TEMP
+
+# Apply a chemistry and physics abstraction overlay
+LOAD CHEM
+LOAD PHYS
+AND
+STORE CONTEXT
+
+# Emit the final waveform resonance result
+EMIT

@@ -1,0 +1,112 @@
+[
+  {
+    "name": "ELECTRON_MASS",
+    "frequency": 1139.5,
+    "phase": 6.0,
+    "amplitude": 0.87,
+    "harmonic": 3,
+    "envelope": 0.69,
+    "category": "physical_constant",
+    "opcode": null,
+    "description": "Electron mass"
+  },
+  {
+    "name": "PROTON_MASS",
+    "frequency": 1012.5,
+    "phase": 2.0,
+    "amplitude": 0.8500000000000001,
+    "harmonic": 1,
+    "envelope": 0.6299999999999999,
+    "category": "physical_constant",
+    "opcode": null,
+    "description": "Proton mass"
+  },
+  {
+    "name": "FINE_STRUCTURE",
+    "frequency": 1241.0,
+    "phase": 0.8,
+    "amplitude": 0.66,
+    "harmonic": 2,
+    "envelope": 0.72,
+    "category": "physical_constant",
+    "opcode": null,
+    "description": "Fine structure constant"
+  },
+  {
+    "name": "MAGNETIC_MOMENT",
+    "frequency": 1280.5,
+    "phase": 2.8000000000000003,
+    "amplitude": 0.43000000000000005,
+    "harmonic": 4,
+    "envelope": 0.75,
+    "category": "physical_constant",
+    "opcode": null,
+    "description": "Magnetic moment"
+  },
+  {
+    "name": "RYDBERG",
+    "frequency": 644.5,
+    "phase": 6.0,
+    "amplitude": 0.87,
+    "harmonic": 3,
+    "envelope": 0.51,
+    "category": "physical_constant",
+    "opcode": null,
+    "description": "Rydberg constant"
+  },
+  {
+    "name": "STEFAN_BOLTZMANN",
+    "frequency": 1377.0,
+    "phase": 2.0,
+    "amplitude": 0.77,
+    "harmonic": 3,
+    "envelope": 0.78,
+    "category": "physical_constant",
+    "opcode": null,
+    "description": "Stefan-Boltzmann constant"
+  },
+  {
+    "name": "GRAVITATIONAL",
+    "frequency": 1113.5,
+    "phase": 2.0,
+    "amplitude": 0.61,
+    "harmonic": 2,
+    "envelope": 0.69,
+    "category": "physical_constant",
+    "opcode": null,
+    "description": "Gravitational constant"
+  },
+  {
+    "name": "SPEED_OF_LIGHT",
+    "frequency": 1219.0,
+    "phase": 4.800000000000001,
+    "amplitude": 0.44,
+    "harmonic": 5,
+    "envelope": 0.72,
+    "category": "physical_constant",
+    "opcode": null,
+    "description": "Speed of light"
+  },
+  {
+    "name": "PLANCK_CONSTANT",
+    "frequency": 1291.5,
+    "phase": 0.8,
+    "amplitude": 0.54,
+    "harmonic": 5,
+    "envelope": 0.75,
+    "category": "physical_constant",
+    "opcode": null,
+    "description": "Planck constant"
+  },
+  {
+    "name": "IMPEDANCE_VACUUM",
+    "frequency": 1346.0,
+    "phase": 2.4000000000000004,
+    "amplitude": 0.46,
+    "harmonic": 2,
+    "envelope": 0.78,
+    "category": "physical_constant",
+    "opcode": null,
+    "description": "Impedance of vacuum"
+  }
+]

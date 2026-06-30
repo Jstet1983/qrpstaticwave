@@ -1,0 +1,90 @@
+[
+  {
+    "name": "EQ",
+    "frequency": 255.0,
+    "phase": 2.4000000000000004,
+    "amplitude": 0.7,
+    "harmonic": 1,
+    "envelope": 0.36,
+    "category": "comparison",
+    "opcode": null,
+    "description": "Equal comparison"
+  },
+  {
+    "name": "NE",
+    "frequency": 252.0,
+    "phase": 1.2000000000000002,
+    "amplitude": 0.67,
+    "harmonic": 3,
+    "envelope": 0.36,
+    "category": "comparison",
+    "opcode": null,
+    "description": "Not equal comparison"
+  },
+  {
+    "name": "LT",
+    "frequency": 265.0,
+    "phase": 0.0,
+    "amplitude": 0.8,
+    "harmonic": 1,
+    "envelope": 0.36,
+    "category": "comparison",
+    "opcode": null,
+    "description": "Less than comparison"
+  },
+  {
+    "name": "LE",
+    "frequency": 250.0,
+    "phase": 0.4,
+    "amplitude": 0.65,
+    "harmonic": 1,
+    "envelope": 0.36,
+    "category": "comparison",
+    "opcode": null,
+    "description": "Less than or equal"
+  },
+  {
+    "name": "GT",
+    "frequency": 260.0,
+    "phase": 4.4,
+    "amplitude": 0.75,
+    "harmonic": 1,
+    "envelope": 0.36,
+    "category": "comparison",
+    "opcode": null,
+    "description": "Greater than comparison"
+  },
+  {
+    "name": "GE",
+    "frequency": 245.0,
+    "phase": 4.800000000000001,
+    "amplitude": 0.6000000000000001,
+    "harmonic": 1,
+    "envelope": 0.36,
+    "category": "comparison",
+    "opcode": null,
+    "description": "Greater than or equal"
+  },
+  {
+    "name": "IN",
+    "frequency": 256.0,
+    "phase": 2.8000000000000003,
+    "amplitude": 0.71,
+    "harmonic": 2,
+    "envelope": 0.36,
+    "category": "comparison",
+    "opcode": null,
+    "description": "Membership test"
+  },
+  {
+    "name": "NOT_IN",
+    "frequency": 602.0,
+    "phase": 2.8000000000000003,
+    "amplitude": 0.47000000000000003,
+    "harmonic": 3,
+    "envelope": 0.48,
+    "category": "comparison",
+    "opcode": null,
+    "description": "Non-membership test"
+  }
+]

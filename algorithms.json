@@ -1,0 +1,167 @@
+[
+  {
+    "name": "BUBBLE_SORT",
+    "frequency": 978.5,
+    "phase": 1.2000000000000002,
+    "amplitude": 0.51,
+    "harmonic": 2,
+    "envelope": 0.6299999999999999,
+    "category": "algorithm",
+    "opcode": null,
+    "description": "Bubble sort algorithm"
+  },
+  {
+    "name": "QUICK_SORT",
+    "frequency": 929.0,
+    "phase": 1.6,
+    "amplitude": 0.64,
+    "harmonic": 5,
+    "envelope": 0.6,
+    "category": "algorithm",
+    "opcode": null,
+    "description": "Quick sort algorithm"
+  },
+  {
+    "name": "MERGE_SORT",
+    "frequency": 916.0,
+    "phase": 2.8000000000000003,
+    "amplitude": 0.51,
+    "harmonic": 2,
+    "envelope": 0.6,
+    "category": "algorithm",
+    "opcode": null,
+    "description": "Merge sort algorithm"
+  },
+  {
+    "name": "HEAP_SORT",
+    "frequency": 831.5,
+    "phase": 2.0,
+    "amplitude": 0.89,
+    "harmonic": 5,
+    "envelope": 0.5700000000000001,
+    "category": "algorithm",
+    "opcode": null,
+    "description": "Heap sort algorithm"
+  },
+  {
+    "name": "INSERTION_SORT",
+    "frequency": 1257.0,
+    "phase": 0.8,
+    "amplitude": 0.8200000000000001,
+    "harmonic": 3,
+    "envelope": 0.72,
+    "category": "algorithm",
+    "opcode": null,
+    "description": "Insertion sort algorithm"
+  },
+  {
+    "name": "SELECTION_SORT",
+    "frequency": 1236.0,
+    "phase": 5.2,
+    "amplitude": 0.61,
+    "harmonic": 2,
+    "envelope": 0.72,
+    "category": "algorithm",
+    "opcode": null,
+    "description": "Selection sort algorithm"
+  },
+  {
+    "name": "BINARY_SEARCH",
+    "frequency": 1118.5,
+    "phase": 4.0,
+    "amplitude": 0.66,
+    "harmonic": 2,
+    "envelope": 0.69,
+    "category": "algorithm",
+    "opcode": null,
+    "description": "Binary search algorithm"
+  },
+  {
+    "name": "LINEAR_SEARCH",
+    "frequency": 1108.5,
+    "phase": 0.0,
+    "amplitude": 0.56,
+    "harmonic": 2,
+    "envelope": 0.69,
+    "category": "algorithm",
+    "opcode": null,
+    "description": "Linear search algorithm"
+  },
+  {
+    "name": "DFS",
+    "frequency": 328.5,
+    "phase": 5.2,
+    "amplitude": 0.81,
+    "harmonic": 2,
+    "envelope": 0.39,
+    "category": "algorithm",
+    "opcode": null,
+    "description": "Depth-first search"
+  },
+  {
+    "name": "BFS",
+    "frequency": 326.5,
+    "phase": 4.4,
+    "amplitude": 0.79,
+    "harmonic": 5,
+    "envelope": 0.39,
+    "category": "algorithm",
+    "opcode": null,
+    "description": "Breadth-first search"
+  },
+  {
+    "name": "DIJKSTRA",
+    "frequency": 724.0,
+    "phase": 4.800000000000001,
+    "amplitude": 0.44,
+    "harmonic": 5,
+    "envelope": 0.54,
+    "category": "algorithm",
+    "opcode": null,
+    "description": "Dijkstra's algorithm"
+  },
+  {
+    "name": "BELLMAN_FORD",
+    "frequency": 1031.0,
+    "phase": 2.0,
+    "amplitude": 0.41000000000000003,
+    "harmonic": 2,
+    "envelope": 0.6599999999999999,
+    "category": "algorithm",
+    "opcode": null,
+    "description": "Bellman-Ford algorithm"
+  },
+  {
+    "name": "FLOYD_WARSHALL",
+    "frequency": 1218.0,
+    "phase": 4.4,
+    "amplitude": 0.43000000000000005,
+    "harmonic": 4,
+    "envelope": 0.72,
+    "category": "algorithm",
+    "opcode": null,
+    "description": "Floyd-Warshall algorithm"
+  },
+  {
+    "name": "KRUSKAL",
+    "frequency": 658.5,
+    "phase": 5.2,
+    "amplitude": 0.41000000000000003,
+    "harmonic": 2,
+    "envelope": 0.51,
+    "category": "algorithm",
+    "opcode": null,
+    "description": "Kruskal's algorithm"
+  },
+  {
+    "name": "PRIM",
+    "frequency": 422.0,
+    "phase": 3.2,
+    "amplitude": 0.52,
+    "harmonic": 3,
+    "envelope": 0.42,
+    "category": "algorithm",
+    "opcode": null,
+    "description": "Prim's algorithm"
+  }
+]

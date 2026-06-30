@@ -1,0 +1,112 @@
+[
+  {
+    "name": "NOT",
+    "frequency": 348.5,
+    "phase": 0.4,
+    "amplitude": 0.41000000000000003,
+    "harmonic": 2,
+    "envelope": 0.39,
+    "category": "logic_operator",
+    "opcode": null,
+    "description": "Logical NOT"
+  },
+  {
+    "name": "AND",
+    "frequency": 318.5,
+    "phase": 1.2000000000000002,
+    "amplitude": 0.71,
+    "harmonic": 2,
+    "envelope": 0.39,
+    "category": "logic_operator",
+    "opcode": null,
+    "description": "Logical AND"
+  },
+  {
+    "name": "OR",
+    "frequency": 266.0,
+    "phase": 0.4,
+    "amplitude": 0.81,
+    "harmonic": 2,
+    "envelope": 0.36,
+    "category": "logic_operator",
+    "opcode": null,
+    "description": "Logical OR"
+  },
+  {
+    "name": "XOR",
+    "frequency": 356.5,
+    "phase": 3.6,
+    "amplitude": 0.49,
+    "harmonic": 5,
+    "envelope": 0.39,
+    "category": "logic_operator",
+    "opcode": null,
+    "description": "Logical XOR"
+  },
+  {
+    "name": "NAND",
+    "frequency": 399.0,
+    "phase": 0.4,
+    "amplitude": 0.89,
+    "harmonic": 5,
+    "envelope": 0.42,
+    "category": "logic_operator",
+    "opcode": null,
+    "description": "Logical NAND"
+  },
+  {
+    "name": "NOR",
+    "frequency": 346.5,
+    "phase": 6.0,
+    "amplitude": 0.99,
+    "harmonic": 5,
+    "envelope": 0.39,
+    "category": "logic_operator",
+    "opcode": null,
+    "description": "Logical NOR"
+  },
+  {
+    "name": "IMPLIES",
+    "frequency": 648.5,
+    "phase": 1.2000000000000002,
+    "amplitude": 0.91,
+    "harmonic": 2,
+    "envelope": 0.51,
+    "category": "logic_operator",
+    "opcode": null,
+    "description": "Logical implication"
+  },
+  {
+    "name": "IFF",
+    "frequency": 320.5,
+    "phase": 2.0,
+    "amplitude": 0.73,
+    "harmonic": 4,
+    "envelope": 0.39,
+    "category": "logic_operator",
+    "opcode": null,
+    "description": "If and only if"
+  },
+  {
+    "name": "FORALL",
+    "frequency": 563.0,
+    "phase": 0.0,
+    "amplitude": 0.68,
+    "harmonic": 4,
+    "envelope": 0.48,
+    "category": "logic_operator",
+    "opcode": null,
+    "description": "Universal quantifier"
+  },
+  {
+    "name": "EXISTS",
+    "frequency": 595.0,
+    "phase": 0.0,
+    "amplitude": 0.4,
+    "harmonic": 1,
+    "envelope": 0.48,
+    "category": "logic_operator",
+    "opcode": null,
+    "description": "Existential quantifier"
+  }
+]

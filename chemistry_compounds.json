@@ -1,0 +1,112 @@
+[
+  {
+    "name": "ETHANOL",
+    "frequency": 640.5,
+    "phase": 4.4,
+    "amplitude": 0.8300000000000001,
+    "harmonic": 4,
+    "envelope": 0.51,
+    "category": "compound",
+    "opcode": null,
+    "description": "Ethanol (C2H6O)"
+  },
+  {
+    "name": "METHANOL",
+    "frequency": 720.0,
+    "phase": 3.2,
+    "amplitude": 0.4,
+    "harmonic": 1,
+    "envelope": 0.54,
+    "category": "compound",
+    "opcode": null,
+    "description": "Methanol (CH4O)"
+  },
+  {
+    "name": "ACETONE",
+    "frequency": 628.5,
+    "phase": 6.0,
+    "amplitude": 0.71,
+    "harmonic": 2,
+    "envelope": 0.51,
+    "category": "compound",
+    "opcode": null,
+    "description": "Acetone (C3H6O)"
+  },
+  {
+    "name": "BENZENE",
+    "frequency": 636.5,
+    "phase": 2.8000000000000003,
+    "amplitude": 0.79,
+    "harmonic": 5,
+    "envelope": 0.51,
+    "category": "compound",
+    "opcode": null,
+    "description": "Benzene (C6H6)"
+  },
+  {
+    "name": "TOLUENE",
+    "frequency": 657.5,
+    "phase": 4.800000000000001,
+    "amplitude": 0.4,
+    "harmonic": 1,
+    "envelope": 0.51,
+    "category": "compound",
+    "opcode": null,
+    "description": "Toluene (C7H8)"
+  },
+  {
+    "name": "AMMONIA",
+    "frequency": 631.5,
+    "phase": 0.8,
+    "amplitude": 0.74,
+    "harmonic": 5,
+    "envelope": 0.51,
+    "category": "compound",
+    "opcode": null,
+    "description": "Ammonia (NH3)"
+  },
+  {
+    "name": "SULFURIC_ACID",
+    "frequency": 1121.5,
+    "phase": 5.2,
+    "amplitude": 0.69,
+    "harmonic": 5,
+    "envelope": 0.69,
+    "category": "compound",
+    "opcode": null,
+    "description": "Sulfuric acid (H2SO4)"
+  },
+  {
+    "name": "NITRIC_ACID",
+    "frequency": 952.5,
+    "phase": 3.6,
+    "amplitude": 0.8500000000000001,
+    "harmonic": 1,
+    "envelope": 0.6299999999999999,
+    "category": "compound",
+    "opcode": null,
+    "description": "Nitric acid (HNO3)"
+  },
+  {
+    "name": "SALT",
+    "frequency": 418.0,
+    "phase": 1.6,
+    "amplitude": 0.48000000000000004,
+    "harmonic": 4,
+    "envelope": 0.42,
+    "category": "compound",
+    "opcode": null,
+    "description": "Salt (NaCl)"
+  },
+  {
+    "name": "GLUCOSE",
+    "frequency": 647.5,
+    "phase": 0.8,
+    "amplitude": 0.9,
+    "harmonic": 1,
+    "envelope": 0.51,
+    "category": "compound",
+    "opcode": null,
+    "description": "Glucose (C6H12O6)"
+  }
+]

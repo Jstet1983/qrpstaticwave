@@ -1,0 +1,222 @@
+[
+  {
+    "name": "METER",
+    "frequency": 493.5,
+    "phase": 5.2,
+    "amplitude": 0.61,
+    "harmonic": 2,
+    "envelope": 0.44999999999999996,
+    "category": "unit",
+    "opcode": null,
+    "description": "Unit of length"
+  },
+  {
+    "name": "KILOGRAM",
+    "frequency": 718.0,
+    "phase": 2.4000000000000004,
+    "amplitude": 0.98,
+    "harmonic": 4,
+    "envelope": 0.54,
+    "category": "unit",
+    "opcode": null,
+    "description": "Unit of mass"
+  },
+  {
+    "name": "SECOND",
+    "frequency": 559.0,
+    "phase": 4.800000000000001,
+    "amplitude": 0.64,
+    "harmonic": 5,
+    "envelope": 0.48,
+    "category": "unit",
+    "opcode": null,
+    "description": "Unit of time"
+  },
+  {
+    "name": "AMPERE",
+    "frequency": 557.0,
+    "phase": 4.0,
+    "amplitude": 0.62,
+    "harmonic": 3,
+    "envelope": 0.48,
+    "category": "unit",
+    "opcode": null,
+    "description": "Unit of electric current"
+  },
+  {
+    "name": "KELVIN",
+    "frequency": 572.0,
+    "phase": 3.6,
+    "amplitude": 0.77,
+    "harmonic": 3,
+    "envelope": 0.48,
+    "category": "unit",
+    "opcode": null,
+    "description": "Unit of temperature"
+  },
+  {
+    "name": "MOLE",
+    "frequency": 411.0,
+    "phase": 5.2,
+    "amplitude": 0.41000000000000003,
+    "harmonic": 2,
+    "envelope": 0.42,
+    "category": "unit",
+    "opcode": null,
+    "description": "Unit of substance"
+  },
+  {
+    "name": "CANDELA",
+    "frequency": 605.5,
+    "phase": 3.2,
+    "amplitude": 0.48000000000000004,
+    "harmonic": 4,
+    "envelope": 0.51,
+    "category": "unit",
+    "opcode": null,
+    "description": "Unit of luminosity"
+  },
+  {
+    "name": "HERTZ",
+    "frequency": 509.5,
+    "phase": 5.2,
+    "amplitude": 0.77,
+    "harmonic": 3,
+    "envelope": 0.44999999999999996,
+    "category": "unit",
+    "opcode": null,
+    "description": "Unit of frequency"
+  },
+  {
+    "name": "NEWTON",
+    "frequency": 590.0,
+    "phase": 4.4,
+    "amplitude": 0.9500000000000001,
+    "harmonic": 1,
+    "envelope": 0.48,
+    "category": "unit",
+    "opcode": null,
+    "description": "Unit of force"
+  },
+  {
+    "name": "PASCAL",
+    "frequency": 551.0,
+    "phase": 1.6,
+    "amplitude": 0.56,
+    "harmonic": 2,
+    "envelope": 0.48,
+    "category": "unit",
+    "opcode": null,
+    "description": "Unit of pressure"
+  },
+  {
+    "name": "JOULE",
+    "frequency": 495.5,
+    "phase": 6.0,
+    "amplitude": 0.63,
+    "harmonic": 4,
+    "envelope": 0.44999999999999996,
+    "category": "unit",
+    "opcode": null,
+    "description": "Unit of energy"
+  },
+  {
+    "name": "WATT",
+    "frequency": 430.0,
+    "phase": 0.0,
+    "amplitude": 0.6000000000000001,
+    "harmonic": 1,
+    "envelope": 0.42,
+    "category": "unit",
+    "opcode": null,
+    "description": "Unit of power"
+  },
+  {
+    "name": "COULOMB",
+    "frequency": 646.5,
+    "phase": 0.4,
+    "amplitude": 0.89,
+    "harmonic": 5,
+    "envelope": 0.51,
+    "category": "unit",
+    "opcode": null,
+    "description": "Unit of electric charge"
+  },
+  {
+    "name": "VOLT",
+    "frequency": 435.0,
+    "phase": 2.0,
+    "amplitude": 0.65,
+    "harmonic": 1,
+    "envelope": 0.42,
+    "category": "unit",
+    "opcode": null,
+    "description": "Unit of electric potential"
+  },
+  {
+    "name": "OHMS",
+    "frequency": 421.0,
+    "phase": 2.8000000000000003,
+    "amplitude": 0.51,
+    "harmonic": 2,
+    "envelope": 0.42,
+    "category": "unit",
+    "opcode": null,
+    "description": "Unit of electrical resistance"
+  },
+  {
+    "name": "FARAD",
+    "frequency": 462.5,
+    "phase": 5.6000000000000005,
+    "amplitude": 0.9,
+    "harmonic": 1,
+    "envelope": 0.44999999999999996,
+    "category": "unit",
+    "opcode": null,
+    "description": "Unit of capacitance"
+  },
+  {
+    "name": "HENRY",
+    "frequency": 502.5,
+    "phase": 2.4000000000000004,
+    "amplitude": 0.7,
+    "harmonic": 1,
+    "envelope": 0.44999999999999996,
+    "category": "unit",
+    "opcode": null,
+    "description": "Unit of inductance"
+  },
+  {
+    "name": "TESLA",
+    "frequency": 489.5,
+    "phase": 3.6,
+    "amplitude": 0.5700000000000001,
+    "harmonic": 3,
+    "envelope": 0.44999999999999996,
+    "category": "unit",
+    "opcode": null,
+    "description": "Unit of magnetic flux density"
+  },
+  {
+    "name": "WEBER",
+    "frequency": 485.5,
+    "phase": 2.0,
+    "amplitude": 0.53,
+    "harmonic": 4,
+    "envelope": 0.44999999999999996,
+    "category": "unit",
+    "opcode": null,
+    "description": "Unit of magnetic flux"
+  },
+  {
+    "name": "SIEMENS",
+    "frequency": 649.5,
+    "phase": 1.6,
+    "amplitude": 0.92,
+    "harmonic": 3,
+    "envelope": 0.51,
+    "category": "unit",
+    "opcode": null,
+    "description": "Unit of electrical conductance"
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "name": "ARRAY",
+    "frequency": 495.5,
+    "phase": 6.0,
+    "amplitude": 0.63,
+    "harmonic": 4,
+    "envelope": 0.44999999999999996,
+    "category": "data_structure",
+    "opcode": null,
+    "description": "Array data structure"
+  },
+  {
+    "name": "LINKED_LIST",
+    "frequency": 977.5,
+    "phase": 0.8,
+    "amplitude": 0.5,
+    "harmonic": 1,
+    "envelope": 0.6299999999999999,
+    "category": "data_structure",
+    "opcode": null,
+    "description": "Linked list structure"
+  },
+  {
+    "name": "STACK",
+    "frequency": 486.5,
+    "phase": 2.4000000000000004,
+    "amplitude": 0.54,
+    "harmonic": 5,
+    "envelope": 0.44999999999999996,
+    "category": "data_structure",
+    "opcode": null,
+    "description": "Stack structure"
+  },
+  {
+    "name": "QUEUE",
+    "frequency": 501.5,
+    "phase": 2.0,
+    "amplitude": 0.69,
+    "harmonic": 5,
+    "envelope": 0.44999999999999996,
+    "category": "data_structure",
+    "opcode": null,
+    "description": "Queue structure"
+  },
+  {
+    "name": "TREE",
+    "frequency": 414.0,
+    "phase": 0.0,
+    "amplitude": 0.44,
+    "harmonic": 5,
+    "envelope": 0.42,
+    "category": "data_structure",
+    "opcode": null,
+    "description": "Tree structure"
+  },
+  {
+    "name": "BINARY_TREE",
+    "frequency": 979.5,
+    "phase": 1.6,
+    "amplitude": 0.52,
+    "harmonic": 3,
+    "envelope": 0.6299999999999999,
+    "category": "data_structure",
+    "opcode": null,
+    "description": "Binary tree structure"
+  },
+  {
+    "name": "GRAPH",
+    "frequency": 482.5,
+    "phase": 0.8,
+    "amplitude": 0.5,
+    "harmonic": 1,
+    "envelope": 0.44999999999999996,
+    "category": "data_structure",
+    "opcode": null,
+    "description": "Graph structure"
+  },
+  {
+    "name": "HASH_TABLE",
+    "frequency": 872.0,
+    "phase": 4.4,
+    "amplitude": 0.67,
+    "harmonic": 3,
+    "envelope": 0.6,
+    "category": "data_structure",
+    "opcode": null,
+    "description": "Hash table structure"
+  },
+  {
+    "name": "HEAP",
+    "frequency": 396.0,
+    "phase": 5.6000000000000005,
+    "amplitude": 0.8600000000000001,
+    "harmonic": 2,
+    "envelope": 0.42,
+    "category": "data_structure",
+    "opcode": null,
+    "description": "Heap structure"
+  },
+  {
+    "name": "TRIE",
+    "frequency": 418.0,
+    "phase": 1.6,
+    "amplitude": 0.48000000000000004,
+    "harmonic": 4,
+    "envelope": 0.42,
+    "category": "data_structure",
+    "opcode": null,
+    "description": "Trie structure"
+  },
+  {
+    "name": "SET",
+    "frequency": 343.5,
+    "phase": 4.800000000000001,
+    "amplitude": 0.9600000000000001,
+    "harmonic": 2,
+    "envelope": 0.39,
+    "category": "data_structure",
+    "opcode": null,
+    "description": "Set collection"
+  },
+  {
+    "name": "MAP",
+    "frequency": 329.5,
+    "phase": 5.6000000000000005,
+    "amplitude": 0.8200000000000001,
+    "harmonic": 3,
+    "envelope": 0.39,
+    "category": "data_structure",
+    "opcode": null,
+    "description": "Map collection"
+  },
+  {
+    "name": "TUPLE",
+    "frequency": 506.5,
+    "phase": 4.0,
+    "amplitude": 0.74,
+    "harmonic": 5,
+    "envelope": 0.44999999999999996,
+    "category": "data_structure",
+    "opcode": null,
+    "description": "Tuple structure"
+  },
+  {
+    "name": "RECORD",
+    "frequency": 562.0,
+    "phase": 6.0,
+    "amplitude": 0.67,
+    "harmonic": 3,
+    "envelope": 0.48,
+    "category": "data_structure",
+    "opcode": null,
+    "description": "Record structure"
+  },
+  {
+    "name": "UNION",
+    "frequency": 505.5,
+    "phase": 3.6,
+    "amplitude": 0.73,
+    "harmonic": 4,
+    "envelope": 0.44999999999999996,
+    "category": "data_structure",
+    "opcode": null,
+    "description": "Union type"
+  }
+]
